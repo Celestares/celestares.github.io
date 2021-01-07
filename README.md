@@ -1,4 +1,3 @@
-# celestares.github.io
 My digital portfolio
 
 ## Things to do
@@ -6,3 +5,4 @@ My digital portfolio
 - Project Screenshots
 - Add _blank to mailto:
 - Add README.md on CrPYtoLearn
+- Remove unnecessary files
