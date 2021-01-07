@@ -1169,3 +1169,7 @@ section {
 #footer .credits {
   font-size: 13px;
 }
+
+.hyperlink_title:hover {
+    text-decoration: underline;
+}
