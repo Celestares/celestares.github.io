@@ -6,3 +6,4 @@ My digital portfolio
 - Add _blank to mailto:
 - Add README.md on CrPYtoLearn
 - Remove unnecessary files
+- Add error 404 page
