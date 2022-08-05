@@ -56,9 +56,7 @@ mccabe==0.6.1
 mysql-connector-python==8.0.23
 Naked==0.1.31
 networkx==2.5.1
-numpy==1.19.5
 oauthlib==3.1.0
-opencv-python==4.5.1.48
 openpyxl==3.0.9
 opt-einsum==3.3.0
 pandas==1.2.2
@@ -106,5 +104,3 @@ Werkzeug==1.0.1
 wrapt==1.12.1
 WTForms==2.3.3
 xlrd==2.0.1
-XlsxWriter==3.0.2
-xmltodict==0.12.0
